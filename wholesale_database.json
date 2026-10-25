@@ -1,0 +1,11 @@
+{
+  "office_chairs": {
+    "item": "Ergonomic Office Chairs",
+    "market_baseline": 60.0,
+    "bulk_tiers": {
+      "100_units": 50.0,
+      "500_units": 42.0
+    },
+    "max_allowed_budget": 52.0
+  }
+}
